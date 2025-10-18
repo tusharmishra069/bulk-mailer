@@ -1,0 +1,5 @@
+# Ignore generated/test CSVs with participant data and attachments
+test.csv
+Devfest Ranchi - Sheet2.dedup.csv
+Devfest Ranchi - Sheet2.dedup.with_pdfs.csv
+
