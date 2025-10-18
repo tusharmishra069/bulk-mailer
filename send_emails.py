@@ -40,20 +40,14 @@ SENDER_EMAIL = SMTP_USER
 
 # this is just a demo 
 
-SUBJECT = "🚀 You Did It! Here’s Your Prompt with Gemini Certificate from DevFest Ranchi"
+SUBJECT = "🎉 Congratulations from Example Organization!"
 BODY_HTML = """
 <p>Dear {name},</p>
-<p>Congratulations! 🎉<br>
-We’re delighted to share your e-certificate for successfully participating in the <strong>Prompt with Gemini</strong> initiative, conducted under the Google Student Ambassador Program at DevFest Ranchi.</p>
-<p>📎 Please find your e-certificate attached to this email.</p>
-<p>We’d love to see you celebrate your achievement on LinkedIn!<br>
-When you share your certificate, don’t forget to mention our booth representatives —<br>
-<strong><a href="https://www.linkedin.com/in/kriti-priya-9ba738279/" target="_blank" rel="noopener">Kriti Priya</a></strong> and <strong><a href="https://www.linkedin.com/in/tushar-kumar-mishra-1974b124b/" target="_blank" rel="noopener">Tushar Mishra</a></strong> — who made this initiative engaging and memorable.</p>                                                                                                  
-<p>Thank you for being an enthusiastic part of the Google Student Ambassador Program and contributing to the success of this event.<br>
-Keep exploring, keep creating, and keep learning with Gemini AI!</p>
-<p>Warm regards,<br>
-GSA Team Chhattisgarh<br>
-Google Student Ambassador Program</p>
+<p>We are excited to inform you that you have successfully participated in our Example Event!</p>
+<p>Please find your personalized document attached to this email.</p>
+<p>If you have any questions, feel free to reach out to our team.</p>
+<p>Best regards,<br>
+The Example Organization Team</p>
 """
 
 
